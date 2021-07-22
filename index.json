@@ -4,7 +4,9 @@
     "id": null,
     "url": null
   },
-  "customer": null,
+  "customer": {
+    "email": "nettie.kevan.davis@gmail.com"
+  },
   "id": "01FB7MXQKTACJV7YD6TWWCE3BE",
   "url": "https://github.com/git-ord/01FB7MXQKTACJV7YD6TWWCE3BE.git",
   "status": "open",
@@ -20,12 +22,8 @@
     "amount": 14019,
     "currency": "USD"
   },
-  "discounts": [
-
-  ],
-  "taxes": [
-
-  ],
+  "discounts": [],
+  "taxes": [],
   "shipping": {
     "address": null,
     "method": null,
